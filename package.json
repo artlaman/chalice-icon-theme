@@ -1,0 +1,37 @@
+{
+    "name": "chalice-icon-theme",
+    "version": "0.0.1",
+    "displayName": "Chalice icon theme",
+    "description": "Chalice icon theme for Visual Studio Code",
+    "publisher": "artlaman",
+    "maintainers": [
+        "Artem Laman <artlaman@yandex.by>"
+    ],
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "*"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "icons",
+        "theme",
+        "icon-theme"
+    ],
+    "contributes": {
+        "iconThemes": [
+            {
+                "id": "chalice-icon-theme",
+                "label": "Chalice (artlaman)",
+                "path": "./chalice-icon-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/artlaman/chalice-icon-theme.git"
+    },
+    "homepage": "https://github.com/artlaman/chalice-icon-theme/blob/master/README.md",
+    "license": "MIT"
+}

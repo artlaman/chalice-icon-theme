@@ -1,0 +1,23 @@
+{
+    "iconDefinitions": {
+        "_folder_dark": {
+            "iconPath": "./icons/folder-dark.svg"
+        },
+        "_file_dark": {
+            "iconPath": "./icons/file-dark.svg"
+        },
+        "_folder_light": {
+            "iconPath": "./icons/folder-light.svg"
+        },
+        "_file_light": {
+            "iconPath": "./icons/file-light.svg"
+        }
+    },
+    "folder": "_folder_dark",
+    "file": "_file_dark",
+    "light": {
+        "folder": "_folder_light",
+        "file": "_file_light"
+    },
+    "hidesExplorerArrows": true
+}
