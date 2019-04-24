@@ -1,23 +1,221 @@
 {
-    "iconDefinitions": {
-        "_folder_dark": {
-            "iconPath": "./icons/folder-dark.svg"
-        },
-        "_file_dark": {
-            "iconPath": "./icons/file-dark.svg"
-        },
-        "_folder_light": {
-            "iconPath": "./icons/folder-light.svg"
-        },
-        "_file_light": {
-            "iconPath": "./icons/file-light.svg"
-        }
+  "iconDefinitions": {
+    "folder.light": {
+      "iconPath": "./icons/light/folder-generic.svg"
     },
-    "folder": "_folder_dark",
-    "file": "_file_dark",
-    "light": {
-        "folder": "_folder_light",
-        "file": "_file_light"
+    "folder.dark": {
+      "iconPath": "./icons/dark/folder-generic.svg"
     },
-    "hidesExplorerArrows": true
+    "file.light": {
+      "iconPath": "./icons/light/file-generic.svg"
+    },
+    "file.dark": {
+      "iconPath": "./icons/dark/file-generic.svg"
+    },
+    "file.code.light": {
+      "iconPath": "./icons/light/file-code.svg"
+    },
+    "file.code.dark": {
+      "iconPath": "./icons/dark/file-code.svg"
+    },
+    "file.curly.light": {
+      "iconPath": "./icons/light/file-curly.svg"
+    },
+    "file.curly.dark": {
+      "iconPath": "./icons/dark/file-curly.svg"
+    },
+    "file.bracket.light": {
+      "iconPath": "./icons/light/file-bracket.svg"
+    },
+    "file.bracket.dark": {
+      "iconPath": "./icons/dark/file-bracket.svg"
+    },
+    "file.lisp.light": {
+      "iconPath": "./icons/light/file-lisp.svg"
+    },
+    "file.lisp.dark": {
+      "iconPath": "./icons/dark/file-lisp.svg"
+    },
+    "file.style.light": {
+      "iconPath": "./icons/light/file-style.svg"
+    },
+    "file.style.dark": {
+      "iconPath": "./icons/dark/file-style.svg"
+    },
+    "file.console.light": {
+      "iconPath": "./icons/light/file-console.svg"
+    },
+    "file.console.dark": {
+      "iconPath": "./icons/dark/file-console.svg"
+    }
+  },
+  "folder": "folder.dark",
+  "file": "file.dark",
+  "fileExtensions": {
+    "json": "file.curly.dark",
+    "c": "file.code.dark",
+    "h": "file.code.dark",
+    "hpp": "file.code.dark",
+    "hxx": "file.code.dark",
+    "hh": "file.code.dark",
+    "cpp": "file.code.dark",
+    "cc": "file.code.dark",
+    "cxx": "file.code.dark",
+    "js": "file.code.dark",
+    "mjs": "file.code.dark",
+    "svg": "file.bracket.dark",
+    "html": "file.bracket.dark",
+    "htm": "file.bracket.dark",
+    "css": "file.style.dark",
+    "sass": "file.style.dark",
+    "scss": "file.style.dark",
+    "less": "file.style.dark",
+    "cs": "file.code.dark",
+    "fs": "file.code.dark",
+    "go": "file.code.dark",
+    "lua": "file.code.dark",
+    "rs": "file.code.dark",
+    "py": "file.code.dark",
+    "rb": "file.code.dark",
+    "jl": "file.code.dark",
+    "php": "file.code.dark",
+    "haxe": "file.code.dark",
+    "hxml": "file.code.dark",
+    "java": "file.code.dark",
+    "ts": "file.code.dark",
+    "d.ts": "file.code.dark",
+    "vue": "file.code.dark",
+    "xml": "file.bracket.dark",
+    "coffee": "file.code.dark",
+    "litcoffee": "file.code.dark",
+    "ex": "file.code.dark",
+    "exs": "file.code.dark",
+    "clj": "file.lisp.dark",
+    "cljs": "file.lisp.dark",
+    "jsx": "file.code.dark",
+    "tsx": "file.code.dark",
+    "yml": "file.bracket.dark",
+    "yaml": "file.bracket.dark",
+    "ss": "file.code.dark",
+    "scm": "file.code.dark",
+    "lisp": "file.lisp.dark",
+    "lsp": "file.lisp.dark",
+    "l": "file.lisp.dark",
+    "cl": "file.lisp.dark",
+    "fasl": "file.lisp.dark",
+    "el": "file.lisp.dark",
+    "elc": "file.lisp.dark",
+    "hs": "file.code.dark",
+    "lhs": "file.code.dark",
+    "idr": "file.code.dark",
+    "v": "file.code.dark",
+    "ml": "file.code.dark",
+    "mli": "file.code.dark",
+    "mll": "file.code.dark",
+    "pro": "file.code.dark",
+    "P": "file.code.dark",
+    "elm": "file.code.dark",
+    "purs": "file.code.dark",
+    "erl": "file.code.dark",
+    "swift": "file.code.dark",
+    "tex": "file.code.dark",
+    "vb": "file.code.dark",
+    "jade": "file.code.dark",
+    "pug": "file.code.dark",
+    "scala": "file.code.dark",
+    "sh": "file.console.dark",
+    "zsh": "file.console.dark",
+    "bash": "file.console.dark",
+    "fish": "file.console.dark",
+    "elv": "file.console.dark",
+    "bat": "file.console.dark",
+    "cmd": "file.console.dark",
+    "ps1": "file.console.dark"
+  },
+  "light": {
+    "folder": "folder.light",
+    "file": "file.light",
+    "fileExtensions": {
+      "json": "file.curly.light",
+      "c": "file.code.light",
+      "h": "file.code.light",
+      "hpp": "file.code.light",
+      "hxx": "file.code.light",
+      "hh": "file.code.light",
+      "cpp": "file.code.light",
+      "cc": "file.code.light",
+      "cxx": "file.code.light",
+      "js": "file.code.light",
+      "mjs": "file.code.light",
+      "svg": "file.bracket.light",
+      "html": "file.bracket.light",
+      "htm": "file.bracket.light",
+      "css": "file.style.light",
+      "sass": "file.style.light",
+      "scss": "file.style.light",
+      "less": "file.style.light",
+      "cs": "file.code.light",
+      "fs": "file.code.light",
+      "go": "file.code.light",
+      "lua": "file.code.light",
+      "rs": "file.code.light",
+      "py": "file.code.light",
+      "rb": "file.code.light",
+      "jl": "file.code.light",
+      "php": "file.code.light",
+      "haxe": "file.code.light",
+      "hxml": "file.code.light",
+      "java": "file.code.light",
+      "ts": "file.code.light",
+      "d.ts": "file.code.light",
+      "vue": "file.code.light",
+      "xml": "file.bracket.light",
+      "coffee": "file.code.light",
+      "litcoffee": "file.code.light",
+      "ex": "file.code.light",
+      "exs": "file.code.light",
+      "clj": "file.lisp.light",
+      "cljs": "file.lisp.light",
+      "jsx": "file.code.light",
+      "tsx": "file.code.light",
+      "yml": "file.bracket.light",
+      "yaml": "file.bracket.light",
+      "ss": "file.code.light",
+      "scm": "file.code.light",
+      "lisp": "file.lisp.light",
+      "lsp": "file.lisp.light",
+      "l": "file.lisp.light",
+      "cl": "file.lisp.light",
+      "fasl": "file.lisp.light",
+      "el": "file.lisp.light",
+      "elc": "file.lisp.light",
+      "hs": "file.code.light",
+      "lhs": "file.code.light",
+      "idr": "file.code.light",
+      "v": "file.code.light",
+      "ml": "file.code.light",
+      "mli": "file.code.light",
+      "mll": "file.code.light",
+      "pro": "file.code.light",
+      "P": "file.code.light",
+      "elm": "file.code.light",
+      "purs": "file.code.light",
+      "erl": "file.code.light",
+      "swift": "file.code.light",
+      "tex": "file.code.light",
+      "vb": "file.code.light",
+      "jade": "file.code.light",
+      "pug": "file.code.light",
+      "scala": "file.code.light",
+      "sh": "file.console.light",
+      "zsh": "file.console.light",
+      "bash": "file.console.light",
+      "fish": "file.console.light",
+      "elv": "file.console.light",
+      "bat": "file.console.light",
+      "cmd": "file.console.light",
+      "ps1": "file.console.light"
+    }
+  },
+  "hidesExplorerArrows": true
 }
