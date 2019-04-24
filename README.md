@@ -1,4 +1,4 @@
-# About
+## About
 
 Chalice icon theme for [Visual Studio Code](http://code.visualstudio.com)
 
