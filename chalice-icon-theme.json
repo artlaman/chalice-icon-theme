@@ -12,6 +12,12 @@
     "document.inverse": {
       "iconPath": "./icons/inverse/document.svg"
     },
+    "image.normal": {
+      "iconPath": "./icons/normal/image.svg"
+    },
+    "image.inverse": {
+      "iconPath": "./icons/inverse/image.svg"
+    },
     "code.normal": {
       "iconPath": "./icons/normal/code.svg"
     },
@@ -130,7 +136,13 @@
     "elv": "console.inverse",
     "bat": "console.inverse",
     "cmd": "console.inverse",
-    "ps1": "console.inverse"
+    "ps1": "console.inverse",
+    "jpeg": "image.inverse",
+    "jpg": "image.inverse",
+    "gif": "image.inverse",
+    "png": "image.inverse",
+    "bmp": "image.inverse",
+    "ico": "image.inverse"
   },
   "light": {
     "folder": "folder.normal",
@@ -214,7 +226,13 @@
       "elv": "console.normal",
       "bat": "console.normal",
       "cmd": "console.normal",
-      "ps1": "console.normal"
+      "ps1": "console.normal",
+      "jpeg": "image.normal",
+      "jpg": "image.normal",
+      "gif": "image.normal",
+      "png": "image.normal",
+      "bmp": "image.normal",
+      "ico": "image.normal"
     }
   },
   "hidesExplorerArrows": true
