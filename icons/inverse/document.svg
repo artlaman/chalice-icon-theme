@@ -4,8 +4,6 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
 <path id="canvas" fill="#F6F6F6" fill-opacity="0" d="M64.166,63.834h-64v-64h64V63.834z"/>
-<path id="outline" fill="#F6F6F6" fill-opacity="0" d="M16.166,59.834c-3.881,0-8-2.805-8-8v-40c0-5.195,4.119-8,8-8h24.242
-	l15.758,14.225v33.775c0,3.879-2.805,8-8,8H16.166z"/>
-<path id="iconBg" fill="#C5C5C5" d="M38.729,7.833H16.021c0,0-3.855,0-3.855,4c0,3.221,0,29.766,0,40c0,4,3.859,4,3.859,4s28,0,32,0
+<path id="iconBg" fill="#C5C5C5" d="M38.729,7.833H16.021c0,0-3.855,0-3.855,4c0,3.221,0,29.767,0,40c0,4,3.859,4,3.859,4s28,0,32,0
 	s4.141-4,4.141-4v-32L38.729,7.833z M48.166,51.834h-32v-40h20v12h12V51.834z"/>
 </svg>
