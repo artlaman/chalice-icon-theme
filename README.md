@@ -5,4 +5,6 @@ Recommended to use with [Chalice color theme](https://marketplace.visualstudio.c
 
 ## Preview
 
-<img src="https://github.com/artlaman/chalice-icon-theme/raw/master/preview.png" title="Chalice preview" />
+<p align="center">
+  <img src="https://github.com/artlaman/chalice-icon-theme/raw/master/preview.png" title="Chalice preview" />
+</p>

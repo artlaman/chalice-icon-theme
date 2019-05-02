@@ -1,6 +1,6 @@
 {
   "name": "chalice-icon-theme",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "displayName": "Chalice Icon Theme",
   "description": "Chalice icon theme for Visual Studio Code",
   "publisher": "artlaman",
@@ -17,7 +17,9 @@
   "keywords": [
     "icons",
     "theme",
-    "icon-theme"
+    "icon-theme",
+    "minimal",
+    "sublime"
   ],
   "contributes": {
     "iconThemes": [
