@@ -42,6 +42,12 @@
     "lisp.inverse": {
       "iconPath": "./icons/inverse/lisp.svg"
     },
+    "lambda.normal": {
+      "iconPath": "./icons/normal/lambda.svg"
+    },
+    "lambda.inverse": {
+      "iconPath": "./icons/inverse/lambda.svg"
+    },
     "style.normal": {
       "iconPath": "./icons/normal/style.svg"
     },
@@ -111,8 +117,8 @@
     "fasl": "lisp.inverse",
     "el": "lisp.inverse",
     "elc": "lisp.inverse",
-    "hs": "code.inverse",
-    "lhs": "code.inverse",
+    "hs": "lambda.inverse",
+    "lhs": "lambda.inverse",
     "idr": "code.inverse",
     "v": "code.inverse",
     "ml": "code.inverse",
@@ -201,8 +207,8 @@
       "fasl": "lisp.normal",
       "el": "lisp.normal",
       "elc": "lisp.normal",
-      "hs": "code.normal",
-      "lhs": "code.normal",
+      "hs": "lambda.normal",
+      "lhs": "lambda.normal",
       "idr": "code.normal",
       "v": "code.normal",
       "ml": "code.normal",
