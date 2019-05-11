@@ -59,6 +59,12 @@
     },
     "console.inverse": {
       "iconPath": "./icons/inverse/console.svg"
+    },
+    "markdown.normal": {
+      "iconPath": "./icons/normal/markdown.svg"
+    },
+    "markdown.inverse": {
+      "iconPath": "./icons/inverse/markdown.svg"
     }
   },
   "folder": "folder.inverse",
@@ -148,7 +154,8 @@
     "gif": "image.inverse",
     "png": "image.inverse",
     "bmp": "image.inverse",
-    "ico": "image.inverse"
+    "ico": "image.inverse",
+    "md": "markdown.inverse"
   },
   "light": {
     "folder": "folder.normal",
@@ -238,7 +245,8 @@
       "gif": "image.normal",
       "png": "image.normal",
       "bmp": "image.normal",
-      "ico": "image.normal"
+      "ico": "image.normal",
+      "md": "markdown.normal"
     }
   },
   "hidesExplorerArrows": true
