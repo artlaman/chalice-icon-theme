@@ -8,6 +8,10 @@
     "Artem Laman <artlaman@yandex.by>"
   ],
   "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#DDDDDD",
+    "theme": "light"
+  },
   "engines": {
     "vscode": "*"
   },
