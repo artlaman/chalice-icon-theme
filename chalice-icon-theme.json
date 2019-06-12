@@ -3,8 +3,14 @@
     "folder.normal": {
       "iconPath": "./icons/normal/folder.svg"
     },
+    "folder.expanded.normal": {
+      "iconPath": "./icons/normal/folder-expanded.svg"
+    },
     "folder.inverse": {
       "iconPath": "./icons/inverse/folder.svg"
+    },
+    "folder.expanded.inverse": {
+      "iconPath": "./icons/inverse/folder-expanded.svg"
     },
     "document.normal": {
       "iconPath": "./icons/normal/document.svg"
@@ -68,6 +74,7 @@
     }
   },
   "folder": "folder.inverse",
+  "folderExpanded": "folder.expanded.inverse",
   "file": "document.inverse",
   "fileExtensions": {
     "json": "curly.inverse",
@@ -159,6 +166,7 @@
   },
   "light": {
     "folder": "folder.normal",
+    "folderExpanded": "folder.expanded.normal",
     "file": "document.normal",
     "fileExtensions": {
       "json": "curly.normal",
