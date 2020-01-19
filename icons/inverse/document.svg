@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
-<g>
-	<path style="fill:#989b9b;" d="M4.1,15C4,15,4,15,4.1,15c-0.3-0.2-0.4-0.4-0.6-0.5c-0.1-0.1-0.3-0.3-0.4-0.4c0,0,0-0.1,0-0.1
-		c0-1.7,0-3.5,0-5.2V8c0-2,0-3.9,0-5.9C3,2,3,2,3.1,2c0.1-0.1,0.3-0.3,0.4-0.4C3.6,1.4,3.8,1.2,4,1.1c0,0,0.1,0,0.1,0
-		C5,1,5.9,1,6.8,1c1,0,2.1,0,3.2,0c0.1,0,0.1,0,0.2,0.1l0.1,0c0.1,0.1,0.3,0.1,0.4,0.2l0.1,0c0,0,0,0,0.1,0l0.5,0.5
-		c0.8,0.8,1.7,1.7,2.5,2.5c0.1,0,0.1,0.1,0.1,0.2c0,0,0,0.1,0,0.1c0.1,0.1,0.1,0.3,0.1,0.4l0,0c0,0,0,0,0,0.1c0,3,0,5.9,0,8.9
-		c0,0,0,0.1,0,0.1c-0.3,0.3-0.6,0.6-0.9,0.9c0,0-0.1,0-0.1,0c-1.4,0-2.9,0-4.3,0C7.1,15,5.6,15,4.1,15z M4,14H13V6H9V2H4V14z M10,5
-		h3.1L10,2V5z"/>
-</g>
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#c5c5c5;}
+</style>
+<path class="st0" d="M4,1L3,2v12l1,1h9l1-1V5l-0.2929001-0.7071099l-3-3L10,1H4z M4,14V2h5v4h4v8H4z M13,5l-3-3v3H13z"/>
 </svg>
