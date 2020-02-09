@@ -1,76 +1,114 @@
 {
+  "fonts": [
+    {
+      "id": "chalice",
+      "src": [
+        {
+          "path": "./fonts/ChaliceIcons-Regular.woff",
+          "format": "woff"
+        }
+      ],
+      "weight": "regular",
+      "style": "regular",
+      "size": "1.3em"
+    }
+  ],
   "iconDefinitions": {
     "folder.normal": {
-      "iconPath": "./icons/normal/folder.svg"
+      "fontCharacter": "\\E000",
+      "fontColor": "#424242"
     },
     "folder.expanded.normal": {
-      "iconPath": "./icons/normal/folder-expanded.svg"
+      "fontCharacter": "\\E001",
+      "fontColor": "#424242"
     },
     "folder.inverse": {
-      "iconPath": "./icons/inverse/folder.svg"
+      "fontCharacter": "\\E000",
+      "fontColor": "#c5c5c5"
     },
     "folder.expanded.inverse": {
-      "iconPath": "./icons/inverse/folder-expanded.svg"
+      "fontCharacter": "\\E001",
+      "fontColor": "#c5c5c5"
     },
     "document.normal": {
-      "iconPath": "./icons/normal/document.svg"
+      "fontCharacter": "\\E002",
+      "fontColor": "#424242"
     },
     "document.inverse": {
-      "iconPath": "./icons/inverse/document.svg"
+      "fontCharacter": "\\E002",
+      "fontColor": "#c5c5c5"
     },
     "image.normal": {
-      "iconPath": "./icons/normal/image.svg"
+      "fontCharacter": "\\E003",
+      "fontColor": "#424242"
     },
     "image.inverse": {
-      "iconPath": "./icons/inverse/image.svg"
+      "fontCharacter": "\\E003",
+      "fontColor": "#c5c5c5"
     },
     "code.normal": {
-      "iconPath": "./icons/normal/code.svg"
+      "fontCharacter": "\\E008",
+      "fontColor": "#424242"
     },
     "code.inverse": {
-      "iconPath": "./icons/inverse/code.svg"
+      "fontCharacter": "\\E008",
+      "fontColor": "#c5c5c5"
     },
     "curly.normal": {
-      "iconPath": "./icons/normal/curly.svg"
+      "fontCharacter": "\\E004",
+      "fontColor": "#424242"
     },
     "curly.inverse": {
-      "iconPath": "./icons/inverse/curly.svg"
+      "fontCharacter": "\\E004",
+      "fontColor": "#c5c5c5"
     },
     "bracket.normal": {
-      "iconPath": "./icons/normal/bracket.svg"
+      "fontCharacter": "\\E005",
+      "fontColor": "#424242"
     },
     "bracket.inverse": {
-      "iconPath": "./icons/inverse/bracket.svg"
+      "fontCharacter": "\\E005",
+      "fontColor": "#c5c5c5"
     },
     "lisp.normal": {
-      "iconPath": "./icons/normal/lisp.svg"
+      "fontCharacter": "\\E011",
+      "fontColor": "#424242"
     },
     "lisp.inverse": {
-      "iconPath": "./icons/inverse/lisp.svg"
+      "fontCharacter": "\\E011",
+      "fontColor": "#c5c5c5"
     },
     "lambda.normal": {
-      "iconPath": "./icons/normal/lambda.svg"
+      "fontCharacter": "\\E009",
+      "fontColor": "#424242"
     },
     "lambda.inverse": {
-      "iconPath": "./icons/inverse/lambda.svg"
+      "fontCharacter": "\\E009",
+      "fontColor": "#c5c5c5"
     },
     "style.normal": {
-      "iconPath": "./icons/normal/style.svg"
+      "fontCharacter": "\\E006",
+      "fontColor": "#424242"
     },
     "style.inverse": {
-      "iconPath": "./icons/inverse/style.svg"
+      "fontCharacter": "\\E006",
+      "fontColor": "#c5c5c5"
     },
     "console.normal": {
-      "iconPath": "./icons/normal/console.svg"
+      "fontCharacter": "\\E007",
+      "fontColor": "#424242"
     },
     "console.inverse": {
-      "iconPath": "./icons/inverse/console.svg"
+      "fontCharacter": "\\E007",
+      "fontColor": "#c5c5c5"
     },
     "markdown.normal": {
-      "iconPath": "./icons/normal/markdown.svg"
+      "fontCharacter": "\\E010",
+      "fontColor": "#424242"
     },
     "markdown.inverse": {
-      "iconPath": "./icons/inverse/markdown.svg"
+      "fontCharacter": "\\E010",
+      "fontColor": "#c5c5c5"
     }
   },
   "folder": "folder.inverse",
