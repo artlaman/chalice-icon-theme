@@ -7,7 +7,7 @@
   "maintainers": [
     "Artem Laman <artlaman@yandex.by>"
   ],
-  "icon": "icon.png",
+  "icon": "assets/icon.png",
   "galleryBanner": {
     "color": "#DDDDDD",
     "theme": "light"
