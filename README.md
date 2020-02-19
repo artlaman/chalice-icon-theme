@@ -35,7 +35,7 @@ These categories are:
 
 ## Additionally
 
-While others tend to use svg format, Chalice uses ttf font format, which brings font hinting and all that stuff into play, making icons look less blurry, which is especially noticeable on non-retina displays.Also, Visual Studio Code does not vertically align svg icons inside of the tabs properly.
+While others tend to use svg format, Chalice uses ttf font format, which brings font hinting and all that stuff into play, making icons look less blurry, which is especially noticeable on non-retina displays. Also, Visual Studio Code does not vertically align svg icons inside of the tabs properly.
 
 <p align="center">
   <img src="assets/svg-tabbar.png" title="SVG tab bar" />

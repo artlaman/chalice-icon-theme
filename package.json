@@ -13,10 +13,11 @@
     "theme": "light"
   },
   "engines": {
-    "vscode": "*"
+    "vscode": "^1.18.0"
   },
   "categories": [
-    "Themes"
+    "Themes",
+    "Other"
   ],
   "keywords": [
     "icons",
@@ -25,6 +26,13 @@
     "minimal",
     "sublime"
   ],
+  "extensionKind": [
+    "ui"
+  ],
+  "activationEvents": [
+    "*"
+  ],
+  "main": "/dist/extension.js",
   "contributes": {
     "iconThemes": [
       {
@@ -32,7 +40,24 @@
         "label": "Chalice",
         "path": "./chalice-icon-theme.json"
       }
-    ]
+    ],
+    "configuration": {
+      "title": "Chalice Icons",
+      "properties": {
+        "chaliceIcons.showArrows": {
+          "type": "boolean",
+          "default": false,
+          "description": "Show File Explorer rotating triangles (twistles)",
+          "scope": "application"
+        }
+      }
+    }
+  },
+  "scripts": {
+    "vscode:prepublish": "shadow-cljs release extension"
+  },
+  "devDependencies": {
+    "shadow-cljs": "2.8.83"
   },
   "repository": {
     "type": "git",

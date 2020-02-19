@@ -4,7 +4,7 @@
       "id": "chalice",
       "src": [
         {
-          "path": "./fonts/ChaliceIcons-Regular.woff",
+          "path": "./dist/ChaliceIcons-Regular.woff",
           "format": "woff"
         }
       ],

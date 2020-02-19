@@ -1,0 +1,16 @@
+;; shadow-cljs configuration
+{:source-paths
+ ["src"]
+
+ :dependencies
+ [[cljs-node-io "1.1.2"]]
+
+ :builds
+ {:extension {:target :node-library
+              :exports {:activate      chalice.extension/activate
+                        :deactivate       chalice.extension/deactivate}
+              :output-to "dist/extension.js"
+              :compiler-options {:infer-externs :auto}}
+  :settings {:target :node-library
+             :exports {:main chalice.settings/main!}
+             :output-to "dist/settings.js"}}}
