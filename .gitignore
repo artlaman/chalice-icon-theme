@@ -1,1 +1,7 @@
 .DS_Store
+.shadow-cljs
+/dist/*.js
+instance_ufo/
+master_ufo/
+node_modules/
+*.vsix
