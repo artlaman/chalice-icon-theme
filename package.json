@@ -48,7 +48,7 @@
         "chaliceIcons.showArrows": {
           "type": "boolean",
           "default": false,
-          "description": "Show File Explorer rotating triangles (twistles)",
+          "description": "Show File Explorer rotating triangles (twisties)",
           "scope": "application"
         }
       }
