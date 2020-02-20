@@ -2,9 +2,6 @@
 {:source-paths
  ["src"]
 
- :dependencies
- [[cljs-node-io "1.1.2"]]
-
  :builds
  {:extension {:target :node-library
               :exports {:activate      chalice.extension/activate
