@@ -1,7 +1,7 @@
 (ns chalice.settings
   (:require
    [fs :refer [writeFileSync readFileSync]]
-   [utils.json :refer [json->clj clj->json]]))
+   [chalice.json :refer [json->clj clj->json]]))
 
 (defn read! [file-name]
   (json->clj (readFileSync file-name)))

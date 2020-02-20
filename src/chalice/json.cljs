@@ -1,4 +1,4 @@
-(ns utils.json)
+(ns chalice.json)
 
 (defn clj->json [value]
   (.stringify js/JSON (clj->js value) nil 2))

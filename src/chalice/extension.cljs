@@ -1,5 +1,5 @@
 (ns chalice.extension
-  (:require [vscode.api :refer
+  (:require [chalice.vscode :refer
              [affects-configuration get-config!
               on-config-change file-path-memo]]
             [chalice.settings :as settings]))

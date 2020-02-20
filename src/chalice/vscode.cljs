@@ -1,4 +1,4 @@
-(ns vscode.api)
+(ns chalice.vscode)
 
 (def vscode (js/require "vscode"))
 
