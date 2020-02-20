@@ -38,7 +38,8 @@
       {
         "id": "chalice-icon-theme",
         "label": "Chalice",
-        "path": "./chalice-icon-theme.json"
+        "path": "./chalice-icon-theme.json",
+        "_watch": true
       }
     ],
     "configuration": {
