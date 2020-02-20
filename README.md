@@ -55,5 +55,5 @@ To show twisties in File Explorer go to `Preferences → Extensions → Chalice 
 
 ## What to do next
 
-- If you found a file extension with wrong/missing category please [create an issue](https://github.com/artlaman/chalice-icon-theme/issues/new/choose) or submit pull request.
+- If you found a file extension with wrong/missing category please [create an issue](https://github.com/artlaman/chalice-icon-theme/issues/new/choose) or submit a pull request.
 - If everything's fine, you can [buy me a coffee](https://www.buymeacoffee.com/artlaman)!
