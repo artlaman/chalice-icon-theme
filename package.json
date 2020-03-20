@@ -58,7 +58,7 @@
     "vscode:prepublish": "shadow-cljs release extension"
   },
   "devDependencies": {
-    "shadow-cljs": "2.8.83"
+    "shadow-cljs": "2.8.93"
   },
   "repository": {
     "type": "git",
