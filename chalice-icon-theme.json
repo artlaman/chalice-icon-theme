@@ -197,7 +197,7 @@
     "bat": "script.inverse",
     "cmd": "script.inverse",
     "ps1": "script.inverse",
-    "mk": "script.normal",
+    "mk": "script.inverse",
     "jpeg": "image.inverse",
     "jpg": "image.inverse",
     "gif": "image.inverse",
