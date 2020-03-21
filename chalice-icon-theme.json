@@ -114,6 +114,10 @@
   "folder": "folder.inverse",
   "folderExpanded": "folder.expanded.inverse",
   "file": "document.inverse",
+  "fileNames": {
+    "makefile": "script.inverse",
+    "dockerfile": "script.inverse"
+  },
   "fileExtensions": {
     "json": "curly.inverse",
     "c": "code.inverse",
@@ -195,6 +199,7 @@
     "bat": "script.inverse",
     "cmd": "script.inverse",
     "ps1": "script.inverse",
+    "mk": "script.normal",
     "jpeg": "image.inverse",
     "jpg": "image.inverse",
     "gif": "image.inverse",
@@ -207,6 +212,10 @@
     "folder": "folder.normal",
     "folderExpanded": "folder.expanded.normal",
     "file": "document.normal",
+    "fileNames": {
+      "makefile": "script.normal",
+      "dockerfile": "script.normal"
+    },
     "fileExtensions": {
       "json": "curly.normal",
       "c": "code.normal",
@@ -288,6 +297,7 @@
       "bat": "script.normal",
       "cmd": "script.normal",
       "ps1": "script.normal",
+      "mk": "script.normal",
       "jpeg": "image.normal",
       "jpg": "image.normal",
       "gif": "image.normal",
