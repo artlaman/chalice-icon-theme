@@ -27,7 +27,7 @@ These categories are:
 - JSON-like files
 - XML-like files
 - Styles
-- Executables
+- Scripts
 - Lisps
 - Code
 - Haskell (special sort of category (theoretically))
