@@ -256,7 +256,7 @@
       "vue": "code.normal",
       "xml": "bracket.normal",
       "csproj": "bracket.normal",
-      "cshtml": "bracket.inverse",
+      "cshtml": "bracket.normal",
       "coffee": "code.normal",
       "litcoffee": "code.normal",
       "ex": "code.normal",
