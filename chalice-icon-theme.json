@@ -208,6 +208,7 @@
     "bmp": "image.inverse",
     "ico": "image.inverse",
     "md": "markdown.inverse",
+    "mdx": "markdown.inverse",
     "gd": "code.inverse"
   },
   "light": {
@@ -308,6 +309,7 @@
       "bmp": "image.normal",
       "ico": "image.normal",
       "md": "markdown.normal",
+      "mdx": "markdown.normal",
       "gd": "code.normal"
     }
   },
