@@ -9,5 +9,5 @@
               :output-to "dist/extension.js"
               :compiler-options {:infer-externs :auto}}
   :settings {:target :node-library
-             :exports {:main chalice.settings/main!}
+             :exports {:main chalice.settings/main}
              :output-to "dist/settings.js"}}}

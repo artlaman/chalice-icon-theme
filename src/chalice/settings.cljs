@@ -8,3 +8,6 @@
 
 (defn write! [file-name settings]
   (writeFileSync file-name (clj->json settings)))
+
+(defn main
+  [])
