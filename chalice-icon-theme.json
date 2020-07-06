@@ -207,7 +207,8 @@
     "png": "image.inverse",
     "bmp": "image.inverse",
     "ico": "image.inverse",
-    "md": "markdown.inverse"
+    "md": "markdown.inverse",
+    "gd": "code.inverse"
   },
   "light": {
     "folder": "folder.normal",
@@ -306,7 +307,8 @@
       "png": "image.normal",
       "bmp": "image.normal",
       "ico": "image.normal",
-      "md": "markdown.normal"
+      "md": "markdown.normal",
+      "gd": "code.normal"
     }
   },
   "hidesExplorerArrows": true
