@@ -211,7 +211,9 @@
     "ico": "image.inverse",
     "md": "markdown.inverse",
     "mdx": "markdown.inverse",
-    "gd": "code.inverse"
+    "gd": "code.inverse",
+    "re": "lambda.inverse",
+    "rei": "lambda.inverse"
   },
   "light": {
     "folder": "folder.normal",
@@ -314,7 +316,9 @@
       "ico": "image.normal",
       "md": "markdown.normal",
       "mdx": "markdown.normal",
-      "gd": "code.normal"
+      "gd": "code.normal",
+      "re": "lambda.normal",
+      "rei": "lambda.normal"
     }
   },
   "hidesExplorerArrows": true
