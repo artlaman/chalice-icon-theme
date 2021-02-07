@@ -211,7 +211,14 @@
     "ico": "image.inverse",
     "md": "markdown.inverse",
     "mdx": "markdown.inverse",
-    "gd": "code.inverse"
+    "gd": "code.inverse",
+    "re": "code.inverse",
+    "rei": "code.inverse",
+    "yaml": "script.inverse",
+    "yml": "script.inverse"
+  },
+  "languageIds": {
+    "docker": "script.inverse"
   },
   "light": {
     "folder": "folder.normal",
@@ -314,7 +321,14 @@
       "ico": "image.normal",
       "md": "markdown.normal",
       "mdx": "markdown.normal",
-      "gd": "code.normal"
+      "gd": "code.normal",
+      "re": "code.normal",
+      "rei": "code.normal",
+      "yaml": "script.normal",
+      "yml": "script.normal"
+    },
+    "languageIds": {
+      "docker": "script.normal"
     }
   },
   "hidesExplorerArrows": true
