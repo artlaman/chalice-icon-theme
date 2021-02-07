@@ -214,6 +214,7 @@
     "gd": "code.inverse",
     "re": "code.inverse",
     "rei": "code.inverse",
+    "yaml": "script.inverse",
     "yml": "script.inverse"
   },
   "languageIds": {
@@ -323,11 +324,11 @@
       "gd": "code.normal",
       "re": "code.normal",
       "rei": "code.normal",
+      "yaml": "script.normal",
       "yml": "script.normal"
     },
     "languageIds": {
-      "docker": "script.normal",
-      "dockerfile": "script.normal"
+      "docker": "script.normal"
     }
   },
   "hidesExplorerArrows": true
