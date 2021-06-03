@@ -220,6 +220,7 @@
     "yml": "script.inverse"
   },
   "languageIds": {
+    "lua": "code.inverse",
     "docker": "script.inverse"
   },
   "light": {
@@ -332,6 +333,7 @@
       "yml": "script.normal"
     },
     "languageIds": {
+      "lua": "code.normal",
       "docker": "script.normal"
     }
   },
