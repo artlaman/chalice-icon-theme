@@ -27,7 +27,8 @@
     "sublime"
   ],
   "extensionKind": [
-    "ui"
+    "ui",
+    "workspace"
   ],
   "activationEvents": [
     "*"
