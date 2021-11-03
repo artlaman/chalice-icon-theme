@@ -248,6 +248,7 @@
       "js": "code.normal",
       "jsx": "bracket.normal",
       "mjs": "code.normal",
+      "cjs": "code.normal",
       "svg": "bracket.normal",
       "html": "bracket.normal",
       "htm": "bracket.normal",
