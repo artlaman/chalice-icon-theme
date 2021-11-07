@@ -133,6 +133,7 @@
     "js": "code.inverse",
     "jsx": "bracket.inverse",
     "mjs": "code.inverse",
+    "cjs": "code.inverse",
     "svg": "bracket.inverse",
     "html": "bracket.inverse",
     "htm": "bracket.inverse",
