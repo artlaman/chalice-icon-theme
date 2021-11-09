@@ -120,6 +120,7 @@
   },
   "fileExtensions": {
     "json": "curly.inverse",
+    "jsonl": "curly.inverse",
     "map": "curly.inverse",
     "c": "code.inverse",
     "h": "code.inverse",
@@ -236,6 +237,7 @@
     },
     "fileExtensions": {
       "json": "curly.normal",
+      "jsonl": "curly.normal",
       "map": "curly.normal",
       "c": "code.normal",
       "h": "code.normal",
