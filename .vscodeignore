@@ -1,4 +1,7 @@
+.clj-kondo/
 .gitignore
+.github/
+.lsp/
 .shadow-cljs/
 .vscode/
 assets/
