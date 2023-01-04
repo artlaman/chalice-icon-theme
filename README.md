@@ -1,8 +1,8 @@
 # Chalice icon theme for [Visual Studio Code](http://code.visualstudio.com)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-orange.svg)](https://github.com/artlaman/chalice-icon-theme/blob/master/LICENSE)
-[![Marketplace Version](https://vsmarketplacebadge.apphb.com/version/artlaman.chalice-icon-theme.svg)](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-icon-theme)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/artlaman.chalice-icon-theme.svg)](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-icon-theme)
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/artlaman.chalice-icon-theme)](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-icon-theme)
+[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/artlaman.chalice-icon-theme)](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-icon-theme&ssr=false#review-details)
 
 A minimalistic icon theme with the stupidest name I could come up with carefully chosen to fit the style of system VS Code icons. Recommended to use with [Chalice color theme](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-color-theme)
 
