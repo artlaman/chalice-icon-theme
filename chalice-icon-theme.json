@@ -197,6 +197,7 @@
     "erl": "code.inverse",
     "swift": "code.inverse",
     "tex": "code.inverse",
+    "typ": "code.inverse",
     "vb": "code.inverse",
     "jade": "code.inverse",
     "pug": "code.inverse",
@@ -229,8 +230,7 @@
     "yaml": "script.inverse",
     "yml": "script.inverse",
     "kt": "code.inverse",
-    "kts": "code.inverse",
-    "typ": "code.inverse"
+    "kts": "code.inverse"
   },
   "languageIds": {
     "lua": "code.inverse",
@@ -323,6 +323,7 @@
       "erl": "code.normal",
       "swift": "code.normal",
       "tex": "code.normal",
+      "typ": "code.normal",
       "vb": "code.normal",
       "jade": "code.normal",
       "pug": "code.normal",
@@ -355,8 +356,7 @@
       "yaml": "script.normal",
       "yml": "script.normal",
       "kt": "code.normal",
-      "kts": "code.normal",
-      "typ": "code.normal"
+      "kts": "code.normal"
     },
     "languageIds": {
       "lua": "code.normal",
