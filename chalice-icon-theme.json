@@ -229,6 +229,8 @@
     "resi": "code.inverse",
     "yaml": "script.inverse",
     "yml": "script.inverse",
+    "hcl": "script.inverse",
+    "tf": "script.inverse",
     "kt": "code.inverse",
     "kts": "code.inverse"
   },
@@ -355,6 +357,8 @@
       "resi": "code.normal",
       "yaml": "script.normal",
       "yml": "script.normal",
+      "hcl": "script.normal",
+      "tf": "script.normal",
       "kt": "code.normal",
       "kts": "code.normal"
     },
