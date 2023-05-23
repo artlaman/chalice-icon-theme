@@ -24,7 +24,8 @@
     "theme",
     "icon-theme",
     "minimal",
-    "sublime"
+    "sublime",
+    "macos"
   ],
   "extensionKind": [
     "ui",
