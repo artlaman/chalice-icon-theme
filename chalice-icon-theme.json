@@ -232,7 +232,8 @@
     "hcl": "script.inverse",
     "tf": "script.inverse",
     "kt": "code.inverse",
-    "kts": "code.inverse"
+    "kts": "code.inverse",
+    "astro": "bracket.inverse"
   },
   "languageIds": {
     "lua": "code.inverse",
@@ -360,7 +361,8 @@
       "hcl": "script.normal",
       "tf": "script.normal",
       "kt": "code.normal",
-      "kts": "code.normal"
+      "kts": "code.normal",
+      "astro": "bracket.normal"
     },
     "languageIds": {
       "lua": "code.normal",
