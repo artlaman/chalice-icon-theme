@@ -1,5 +1,7 @@
 .DS_Store
 .shadow-cljs
+.clj-kondo
+.lsp
 /dist/*.js
 instance_ufo/
 master_ufo/
