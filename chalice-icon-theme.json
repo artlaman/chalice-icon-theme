@@ -362,7 +362,8 @@
       "tf": "script.normal",
       "kt": "code.normal",
       "kts": "code.normal",
-      "astro": "bracket.normal"
+      "astro": "bracket.normal",
+      "sol": "code.normal",
     },
     "languageIds": {
       "lua": "code.normal",
